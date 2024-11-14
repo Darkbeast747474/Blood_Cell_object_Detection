@@ -1,4 +1,5 @@
-# Blood Cell Detection Web App
+# Blood Cell Detection Web App 
+#### [Deployed On Hugging Face](https://huggingface.co/spaces/Dark-beast74/Blood_Cell_Object_Detection)
 
 - Yolov11 Model is Fine Tuned On The BCCD Dataset With 410 Blood Sample Microscopic Images and there Annotation in Xml Files In `BCCD` Directory.
 
