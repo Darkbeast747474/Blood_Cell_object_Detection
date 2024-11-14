@@ -8,7 +8,7 @@
 
 - `data_structuring.py` Structures the images and the Labels are converted into yolo format using the old coordinates saved in corresponding xml files and a directory `dataset` is created :
 
-    dataset/
+   `dataset/
     ├── images/
     │   ├── train/
     │   │   ├── img1.jpg
@@ -20,7 +20,7 @@
         │   ├── img1.txt
         │   └── img2.txt
         ├── val/
-        └── test/
+        └── test/`
 
 - In `model_tuning.py` file the model `yolo11n.pt` is fine tuned with 100 epochs and instructions given in `dataset.yaml` is passed in model training shows the directory of dataset and the name/count of classes to detect. The Training Results are Saved in `runs/detect/train` , here's the preview of a plot loss updation during training :
 
