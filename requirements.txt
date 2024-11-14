@@ -1,0 +1,10 @@
+ultralytics
+pandas
+pillow
+numpy
+torch 
+torchvision
+torchaudio
+albumentations
+xml
+streamlit
