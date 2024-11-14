@@ -15,7 +15,9 @@
 - At Last `app.py` contains streamlit code which takes the uploaded image n feeded to model for inference , after that the boundboxes are drawn from results by inference along with classes it detected and each of there respective confidence.
 
 Use this image for testing purposes :
+
 ![bloodsample.jpg](dataset/images/test/BloodImage_00011.jpg)
 
 The result image should look like this :
+
 ![bloodsample_pred.jpg](runs/detect/predict/BloodImage_00011.jpg)
